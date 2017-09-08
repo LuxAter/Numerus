@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:53,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{applic:0,core:0,document:[],engin:[],librari:0,mathemat:[],mathmat:0,numeru:[],numerus_underlin:[],oper:0,other:0},titles:["Numerus Documentation"],titleterms:{document:0,numeru:0}})
